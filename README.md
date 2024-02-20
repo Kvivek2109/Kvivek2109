@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi 👋, I'm Vivek Karhale!
 
-<!--
-**Kvivek2109/Kvivek2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page! Here you'll find a collection of my projects and skills.
 
-Here are some ideas to get you started:
+✉️  You can contact me at [vivek.karhale@gmail.com](mailto:vivek.karhale@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- JavaScript
+- Python
+- TypeScript
+- Java
+- React
+- Next.js
+- Node.js
+- GraphQL
+- MySQL
+- MongoDB
+- Amazon Web Services (AWS)
+
+## Looking for Opportunities
+
+I'm currently looking for roles as a Java developer, front-end developer, and Java software engineer.
+
+## Socials
+
+- LinkedIn: [Vivek Karhale](https://www.linkedin.com/in/vivek-karhale-3545a6106)
