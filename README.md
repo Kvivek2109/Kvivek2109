@@ -23,4 +23,4 @@ I'm currently looking for roles as a Java developer, front-end developer, and Ja
 ## Socials
 
 - LinkedIn: [Vivek Karhale](https://www.linkedin.com/in/vivek-karhale-3545a6106)
-- [My Portfolio](https://vivekkarhale.netlify.app/).
+- [My Portfolio](https://vivekkarhale.dev/).
