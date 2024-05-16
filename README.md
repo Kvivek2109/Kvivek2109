@@ -2,19 +2,25 @@
 
 Welcome to my GitHub page! Here you'll find a collection of my projects and skills.
 
-✉️  You can contact me at [vivek.karhale@gmail.com](mailto:vivek.karhale@gmail.com)
+✉️  You can contact me at [vivekkarhale7650@gmail.com](mailto:vivekkarhale7650@gmail.com)
 
 # Skills Overview
 
-- **Programming Languages:** Java, Python, Kotlin, TypeScript, JavaScript, HTML and CSS, C
+- **Web Development:** HTML5, CSS3, SASS, JavaScript, TypeScript, jQuery, PHP, AJAX, JSON, XML
 
-- **Database & Cloud:** RDBMS (MySQL, PostgreSQL, Oracle), NoSQL (MongoDB), AWS
+- **Frameworks:** ReactJS, AngularJS, Next.js, Tailwind CSS, Bootstrap, React Native, Ionic, Node.js, GraphQL, Spring Boot
 
-- **Libraries and Frameworks:** Ionic, React Native, React.js, Node.js, Next.js, GraphQL, RESTful APIs, JSON, Spring Boot
+- **Database Management:** RDBMS (MySQL, PostgreSQL, ORACLE Database), NoSQL (MongoDB), AWS, Docker
 
-- **Tools & Software:** Git, GitHub Actions, Firebase, Visual Studio, Oracle VM, VirtualBox, Eclipse, Android Studio, Visio, Jenkins, Jira
+- **Programming Languages:** Java, Python, Kotlin, C, C++
 
-- **Methodologies:** Agile (Scrum, Kanban), TDD, FDD
+- **Software Tools:** Microsoft Visual Studio, Eclipse, IntelliJ, Android Studio, Dreamweaver
+
+- **Version Control Tools:** Git, SVN
+
+- **Application Servers:** Apache Tomcat Server
+
+- **Operating System:** Windows, Linux, Unix, MS-DOS
 
 ## Looking for Opportunities
 
