@@ -6,21 +6,21 @@ Welcome to my GitHub page! Here you'll find a collection of my projects and skil
 
 # Skills Overview
 
-- **Web Development:** HTML5, CSS3, SASS, JavaScript, TypeScript, jQuery, PHP, AJAX, JSON, XML
+- **Web Development:** HTML5, CSS3, LESS, SASS, React, Angular, Next.js, jQuery, AJAX, JSON, XML, Tailwind, Bootstrap
 
-- **Frameworks:** ReactJS, AngularJS, Next.js, Tailwind CSS, Bootstrap, React Native, Ionic, Node.js, GraphQL, Spring Boot
+- **Frameworks/Libraries:** React Native, Node.js, Express.js, Redux, Ionic, Spring Boot, Spring MVC, Hibernate, JPA
 
-- **Database Management:** RDBMS (MySQL, PostgreSQL, ORACLE Database), NoSQL (MongoDB), AWS, Docker
+- **Programming Languages:** Java, JavaScript, TypeScript, Python, Kotlin, SQL, PL/SQL
 
-- **Programming Languages:** Java, Python, Kotlin, C, C++
+- **Database Management:** MySQL, PostgreSQL, MongoDB
 
-- **Software Tools:** Microsoft Visual Studio, Eclipse, IntelliJ, Android Studio, Dreamweaver
+- **Testing/Logging frameworks:** JUnit, Mockito, Cucumber, Selenium, Log4j
 
-- **Version Control Tools:** Git, SVN
+- **IDEs:** Microsoft Visual Studio, Eclipse, IntelliJ IDEA, Android Studio
 
-- **Application Servers:** Apache Tomcat Server
+- **Tools:** Git, GitHub, Docker, Jenkins, Maven, Gradle, Postman, Dreamweaver, Apache Tomcat Server
 
-- **Operating System:** Windows, Linux, Unix, MS-DOS
+- **Methodologies:** SDLC, Agile, Scrum, Waterfall
 
 ## Looking for Opportunities
 
