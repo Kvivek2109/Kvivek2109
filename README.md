@@ -24,7 +24,7 @@ Welcome to my GitHub page! Here you'll find a collection of my projects and skil
 
 ## Looking for Opportunities
 
-I'm currently looking for roles as a Java developer, front-end developer, and Java software engineer.
+I'm currently looking for roles as a Front-End Developer, Full Stack Developer, Web Developer and Java software Developer.
 
 ## Socials
 
